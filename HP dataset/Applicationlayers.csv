@@ -1,0 +1,12 @@
+Layer_ID,Application_ID,Application_code,Application_name,Layer_name,Layer_code
+11101303,111,111013,Orders and Shipments - Finance,ONS_Certified_incremental_zone,CI   
+11101306,111,111013,Orders and Shipments - Finance,ONS_Transformation_Zone,TZ   
+9999999,99,111013,Default BOW,Default SBOW,DEFLT
+11101304,111,111013,Orders and Shipments - Finance,ONS_Certified_history_zone,CH   
+11101305,111,111013,Orders and Shipments - Finance,ONS_Certified_point_in_time_zone,CP   
+11101308,111,111013,Orders and Shipments - Finance,ADW_Stage_To_Base_Zone,DWSTB
+11101307,111,111013,Orders and Shipments - Finance,ONS_ADW_Zone,ADW  
+11101301,111,111013,Orders and Shipments - Finance,ONS_Landing_zone,LZ   
+11101300,111,111013,Orders and Shipments - Finance,ONS_PreLanding_Zone,PRLAN
+11101302,111,111013,Orders and Shipments - Finance,ONS_History_zone,HZ   
+11101311,111,111013,Orders and Shipments - Finance,ONS_S3Copy_To_ADLS_Prelanding,S32AZ
